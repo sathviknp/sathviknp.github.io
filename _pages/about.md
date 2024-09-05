@@ -21,6 +21,15 @@ My research interest spans the area of system security and privacy, with an emph
 
 <ul>
 
+<p><strong>Sept 2024</strong>: I was awarded a student travel grant to attend <a
+href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS 2024.</a></p>
+
+<p><strong>Sept 2024</strong>: Invited to present at <a
+href="https://www.sipforum.org/news-events/sipnoc-2024-overview/">SIPNOC 2024</a>, a premier industry-wide conference on all things related to telephony.</p>
+
+<p><strong>Aug 2024</strong>: Our work on automating telephone call tracebacks (identifying the originator of illegal robocalls with strong security and privacy guarantees) was published at ACM CCS 2024! Check out the <a href="https://arxiv.org/abs/2409.02839">paper</a> (called Jäger) and the <a href="https://github.com/wspr-ncsu/jaeger"> system prototype implementation.</a> </p>
+
+
 <p><strong>May 2024</strong>: Research proposal on studying Non-English Robocalls accepted at the <a href="https://conpro24.ieee-security.org/index.html">Workshop on Technology and Consumer Protection</a> (ConPro 2024)</p>
 
 <p><strong>May 2024</strong>: <strong>New Paper Accepted</strong>: Our work on characterizing the SMS-Phishing ecosystem (<a
