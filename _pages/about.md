@@ -29,7 +29,7 @@ href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS 2024.</a></p>
 <p><strong>Sept 2024</strong>: Invited to present at <a
 href="https://www.sipforum.org/news-events/sipnoc-2024-overview/">SIPNOC 2024</a>, a premier industry-wide conference on all things related to telephony.</p>
 
-<p><strong>Aug 2024</strong>: Our work on automating telephone call tracebacks (identifying the originator of illegal robocalls with strong security and privacy guarantees) was published at ACM CCS 2024! Check out the <a href="https://arxiv.org/abs/2409.02839">paper</a> (called Jäger) and the <a href="https://github.com/wspr-ncsu/jaeger"> system prototype implementation.</a> </p>
+<p><strong>Aug 2024</strong>: <strong>New Paper Accepted:</strong> Our work on automating telephone call tracebacks (identifying the originator of illegal robocalls with strong security and privacy guarantees) was published at ACM CCS 2024! Check out the <a href="https://arxiv.org/abs/2409.02839">paper</a> (called Jäger) and the <a href="https://github.com/wspr-ncsu/jaeger"> system prototype implementation.</a> </p>
 
 
 <p><strong>May 2024</strong>: Research proposal on studying Non-English Robocalls accepted at the <a href="https://conpro24.ieee-security.org/index.html">Workshop on Technology and Consumer Protection</a> (ConPro 2024)</p>
@@ -151,8 +151,7 @@ Robocalls through Audio and Metadata Analysis</a></em> was accepted at
 <a href="https://www.usenix.org/conference/usenixsecurity20">USENIX
 Security 2020</a>!</p>
 <p><strong>Feb 2020</strong>: Won the <em>Best Poster Presentation
-Award</em> at NDSS 2020! <a
-href="files/poster_whoscalling.pdf">Poster</a></p>
+Award</em> at NDSS 2020!</p>
 <p><strong>Jan 2020</strong>: Awarded a student travel grant to attend
 NDSS 2020. I’ll be presenting a poster on our ongoing work about
 characterizing Robocalls. Thanks <a
