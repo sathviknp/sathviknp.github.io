@@ -21,6 +21,9 @@ My research interest spans the area of system security and privacy, with an emph
 
 <ul>
 
+<p><strong>Oct 2024</strong>: Our <a href="https://arxiv.org/abs/2409.02839">paper</a> (called Jäger) on automating telephone abuse traceback won the <strong>Distinguished Paper Award</strong> and the <strong>Distinguished Artifact Award</strong> at <a
+href="https://www.sigsac.org/ccs/CCS2024/program/awards.html">ACM CCS 2024.</a></p>
+
 <p><strong>Sept 2024</strong>: <strong>New Paper Accepted:</strong> Our work on measuring the robocalling ecosystem from multiple vantage points was accepted for publication at <a href="https://sp2025.ieee-security.org/"> IEEE S&P (Oakland) 2025!</a> </p>
 
 <p><strong>Sept 2024</strong>: I was awarded a student travel grant to attend <a
