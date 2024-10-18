@@ -1,10 +1,10 @@
 ---
 title: "Characterizing Robocalls with Multiple Vantage Points"
 collection: publications
-permalink: /publication/2024-09-01-vantage-point
-excerpt: 'Develops an automated and secure system to perform tracebacks -- an investigative task of identifying the point of origin of illegal robocalls.'
-date: 2024-09-01
-venue: 'IEEE Symposium on Security and Privacy (2025)'
+permalink: /publication/2025-05-01-vantage-point
+excerpt: 'A multiple vantage-point study using honeypots, consumer complaints and enforcement actions that delves into the evolution of the robocalling ecosystem'
+date: 2025-05-01
+venue: 'IEEE Symposium on Security and Privacy'
 
 ---
 

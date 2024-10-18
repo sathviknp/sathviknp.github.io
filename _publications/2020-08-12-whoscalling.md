@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-08-12-whoscalling
 excerpt: 'A large-scale characterization of the robocalling pandemic in the North American phone network.'
 date: 2020-08-12
-venue: 'USENIX Security (2020)'
+venue: 'USENIX Security'
 
 ---
 

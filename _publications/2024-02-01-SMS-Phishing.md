@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-01-SMS-Phishing
 excerpt: 'A deep-dive into the tactics and infrastructure used by SMS Phishing Operations.'
 date: 2024-02-01
-venue: 'IEEE Symposium on Security and Privacy (2024)'
+venue: 'IEEE Symposium on Security and Privacy'
 
 ---
 
