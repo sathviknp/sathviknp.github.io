@@ -18,8 +18,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Contact"
+    url: /contact/    
     
   # - title: "Portfolio"
   #   url: /portfolio/

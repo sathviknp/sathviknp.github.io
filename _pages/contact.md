@@ -10,6 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-I'm active on LinkedIn (https://www.linkedin.com/in/sathviknprasad/). 
+I'm active on [LinkedIn](https://www.linkedin.com/in/sathviknprasad/). 
 
 You can also email me at: `sathviknp ~at~ gmail ~dot~ com`
