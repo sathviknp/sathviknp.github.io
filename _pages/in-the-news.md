@@ -36,3 +36,9 @@ redirect_from:
 [ZDNet](https://www.zdnet.com/article/a-simple-telephony-honeypot-received-1-5-million-robocalls-across-11-months/): **A simple telephony honeypot received 1.5 million robocalls across 11 months**
 
 [endgadget](https://www.engadget.com/robocalls-myths-nc-state-research-161552408.html): **Research shows answering one robocall doesn't lead to more**
+
+[NC State News](https://news.ncsu.edu/2023/08/the-war-on-robocalls/): **A New Weapon in the War on Robocall Scams**
+
+[NC State News](https://news.ncsu.edu/2024/05/text-message-phishing-scams/): **Study Sheds Light on Shady World of Text Message Phishing Scams**
+
+[..and many more](https://docs.google.com/spreadsheets/d/15riWJOylfRm01qu72hbne0RuP7-30w0bWE5-NavIznc/edit?usp=sharing)

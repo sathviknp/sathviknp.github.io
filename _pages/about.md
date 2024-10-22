@@ -7,18 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I am a Ph.D. candidate in the [Computer Science Department](https://www.csc.ncsu.edu/) at [NC State University](https://www.ncsu.edu/) and the lead graduate student for the [WSPR Lab](https://wspr.csc.ncsu.edu//people.html).
-I am advised by [Dr. Brad Reaves](https://bradreaves.net).
-
-My research interest spans the area of system security and privacy, with an emphasis on developing data-driven techniques to study spam, abuse and fraud.  I currently work on developing techniques to detect and characterize **[robocalls](https://robocall.science)** — a catch-all term for automated phone calls. Our work on characterizing robocalls won the [2020 First Place Internet Defense Prize](https://research.fb.com/blog/2020/08/facebook-awards-200000-to-2020-internet-defense-prize-winners-at-usenix-security/) and a [Distinguished Paper Award](https://www.usenix.org/conference/usenixsecurity20/presentation/prasad). -->
-
 I'm a security researcher and a final-year PhD candidate at [North Carolina State University](https://www.csc.ncsu.edu/), where I'm fortunate to be advised by [Dr. Brad Reaves](https://bradreaves.net). I'm also the lead graduate student for the [Wolfpack Security and Privacy Research lab](https://wspr.csc.ncsu.edu//people.html). 
 
 I specialize in conceptualizing and developing large-scale data collection systems to study spam, fraud, and abuse. I designed, deployed, and continue to operate the largest academic telephony honeypot in the United States. As part of my dissertation, I've developed novel characterization techniques to study the telephony threat landscape, which have led to numerous publications and awards at top-tier computer security conferences. 
 
 I'm a recipient of the prestigious [Internet Defense Award](https://research.facebook.com/blog/2020/08/facebook-awards-200000-to-2020-internet-defense-prize-winners-at-usenix-security/) (1st place, $100,000), which recognizes security research that meaningfully contributes to the protection and defense of the Internet. I've also won two Distinguished Paper Awards ([USENIX Security](https://www.usenix.org/conference/usenixsecurity20/presentation/prasad) and [ACM CCS](https://www.sigsac.org/ccs/CCS2024/program/awards.html)), a Distinguished Artifact Award ([ACM CCS](https://www.sigsac.org/ccs/CCS2024/program/awards.html)), and a Best Poster Presentation Award ([NDSS](https://youtu.be/oXD9F76S6G0?t=609)). The data collection techniques from my research on robocalls have driven the FCC's [regulatory policy](https://docs.fcc.gov/public/attachments/FCC-23-37A1.pdf) on protecting millions of phone users across the United States from fraudulent robocalls. 
 
-I've demonstrated real-world impact through successful industry-academia collaborations, leading to press coverage spanning 60+ news articles. I enjoy presenting deep technical concepts to a broad audience. Through [20+ invited talks](../talks/) and panel discussions, I've presented to regulators, enforcement agencies, industry research groups, academics, engineering leaders, and students.
+I've demonstrated real-world impact through successful industry-academia collaborations, leading to press coverage spanning [60+ news articles](../in-the-news/). I enjoy presenting deep technical concepts to a broad audience. Through [20+ invited talks](../talks/) and panel discussions, I've presented to regulators, enforcement agencies, industry research groups, academics, engineering leaders, and students. I have over 9 years of cumulative experience in Computer Security, Machine Learning, NLP, Networking, and Software Development. Throughout my professional career, I've worked at Cisco, Google, Mandiant, Centurylink, Bandwidth, and the Industry Traceback Group.
 
 **Research website on all things robocalls: [robocall.science](https://robocall.science)**
 
