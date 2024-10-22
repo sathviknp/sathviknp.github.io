@@ -16,7 +16,9 @@ I'm a security researcher and a final-year PhD candidate at [North Carolina Stat
 
 I specialize in conceptualizing and developing large-scale data collection systems to study spam, fraud, and abuse. I designed, deployed, and continue to operate the largest academic telephony honeypot in the United States. As part of my dissertation, I've developed novel characterization techniques to study the telephony threat landscape, which have led to numerous publications and awards at top-tier computer security conferences. 
 
-I'm a recipient of the prestigious [Internet Defense Award](https://research.facebook.com/blog/2020/08/facebook-awards-200000-to-2020-internet-defense-prize-winners-at-usenix-security/) (1st place, $100,000), which recognizes security research that meaningfully contributes to the protection and defense of the Internet. I've also won two Distinguished Paper Awards ([USENIX Security](https://www.usenix.org/conference/usenixsecurity20/presentation/prasad) and [ACM CCS](https://www.sigsac.org/ccs/CCS2024/program/awards.html)), a Distinguished Artifact Award ([ACM CCS](https://www.sigsac.org/ccs/CCS2024/program/awards.html)), and a Best Poster Presentation Award ([NDSS](https://youtu.be/oXD9F76S6G0?t=609)). The data collection techniques from my research on robocalls have driven the FCC's [regulatory policy](https://docs.fcc.gov/public/attachments/FCC-23-37A1.pdf) on protecting millions of phone users across the United States from fraudulent robocalls. I've demonstrated real-world impact through successful industry-academia collaborations, leading to press coverage spanning 60+ news articles. I enjoy presenting deep technical concepts to a broad audience. Through 20+ invited talks and panel discussions, I've presented to regulators, enforcement agencies, industry research groups, academics, engineering leaders, and students.
+I'm a recipient of the prestigious [Internet Defense Award](https://research.facebook.com/blog/2020/08/facebook-awards-200000-to-2020-internet-defense-prize-winners-at-usenix-security/) (1st place, $100,000), which recognizes security research that meaningfully contributes to the protection and defense of the Internet. I've also won two Distinguished Paper Awards ([USENIX Security](https://www.usenix.org/conference/usenixsecurity20/presentation/prasad) and [ACM CCS](https://www.sigsac.org/ccs/CCS2024/program/awards.html)), a Distinguished Artifact Award ([ACM CCS](https://www.sigsac.org/ccs/CCS2024/program/awards.html)), and a Best Poster Presentation Award ([NDSS](https://youtu.be/oXD9F76S6G0?t=609)). The data collection techniques from my research on robocalls have driven the FCC's [regulatory policy](https://docs.fcc.gov/public/attachments/FCC-23-37A1.pdf) on protecting millions of phone users across the United States from fraudulent robocalls. 
+
+I've demonstrated real-world impact through successful industry-academia collaborations, leading to press coverage spanning 60+ news articles. I enjoy presenting deep technical concepts to a broad audience. Through 20+ invited talks and panel discussions, I've presented to regulators, enforcement agencies, industry research groups, academics, engineering leaders, and students.
 
 **Research website on all things robocalls: [robocall.science](https://robocall.science)**
 
@@ -26,20 +28,20 @@ I'm a recipient of the prestigious [Internet Defense Award](https://research.fac
 
 - [Characterizing Robocalls with Multiple Vantage Points](../publication/2025-05-01-vantage-point), IEEE Security and Privacy (Oakland), 2025
 
-- [Jäger: Automated Telephone Call Traceback](../publications/2024-10-17-jager), ACM CCS, 2024
+- [Jäger: Automated Telephone Call Traceback](../publication/2024-10-17-jager), ACM CCS, 2024
   - Distinguished Paper Award
   - Distinguished Artifact Award
 
-- [On SMS Phishing Tactics and Infrastructure](../publications/2024-02-01-SMS-Phishing), IEEE Security and Privacy (Oakland), 2024
+- [On SMS Phishing Tactics and Infrastructure](../publication/2024-02-01-SMS-Phishing), IEEE Security and Privacy (Oakland), 2024
 
-- [Diving into Robocall Content with SnorCall](../publications/2023-02-28-SnorCall), USENIX Security, 2023
+- [Diving into Robocall Content with SnorCall](../publication/2023-02-28-SnorCall), USENIX Security, 2023
 
 
-- [Who’s Calling? Characterizing Robocalls through Audio and Metadata Analysis](../publications/2020-08-12-whoscalling), USENIX Security, 2020
+- [Who’s Calling? Characterizing Robocalls through Audio and Metadata Analysis](../publication/2020-08-12-whoscalling), USENIX Security, 2020
   - Internet Defense Award (1st Place)
   - Distinguished Paper Award
 
-- [Thou Shalt Discuss Security: Quantifying the Impacts of Instructions to RFC Authors](../publications/2019-11-11-rfclint), Security Standardisation Research Conference, 2019
+- [Thou Shalt Discuss Security: Quantifying the Impacts of Instructions to RFC Authors](../publication/2019-11-11-rfclint), Security Standardisation Research Conference, 2019
 
 
 <h2 id="news">News</h2>
