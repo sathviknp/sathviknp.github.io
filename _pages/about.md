@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a security researcher and a final-year PhD candidate at [North Carolina State University](https://www.csc.ncsu.edu/), where I'm fortunate to be advised by [Dr. Brad Reaves](https://bradreaves.net). I'm also the lead graduate student for the [Wolfpack Security and Privacy Research lab](https://wspr.csc.ncsu.edu//people.html). 
+I'm a security researcher and a final-year PhD candidate at [North Carolina State University](https://www.csc.ncsu.edu/), where I'm advised by [Dr. Brad Reaves](https://bradreaves.net). I'm also the lead graduate student for the [Wolfpack Security and Privacy Research lab](https://wspr.csc.ncsu.edu//people.html). 
 
 I specialize in conceptualizing and developing large-scale data collection systems to study spam, fraud, and abuse. I designed, deployed, and continue to operate the largest academic telephony honeypot in the United States. As part of my dissertation, I've developed novel characterization techniques to study the telephony threat landscape, which have led to numerous publications and awards at top-tier computer security conferences. 
 
