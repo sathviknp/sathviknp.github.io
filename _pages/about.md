@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**I'm on the job market**: I aim to bridge the gap between research and industry, advancing security solutions to tackle emerging threats. Do reach out on [LinkedIn](https://www.linkedin.com/in/sathviknprasad/) or via [email](../contact/) if I'd be a good fit for your organization.
+
 I'm a security researcher and a final-year PhD candidate at [North Carolina State University](https://www.csc.ncsu.edu/), where I'm advised by [Dr. Brad Reaves](https://bradreaves.net). I'm also the lead graduate student for the [Wolfpack Security and Privacy Research lab](https://wspr.csc.ncsu.edu//people.html). 
 
 I specialize in conceptualizing and developing large-scale data collection systems to study spam, fraud, and abuse. I designed, deployed, and continue to operate the largest academic telephony honeypot in the United States. As part of my dissertation, I've developed novel characterization techniques to study the telephony threat landscape, which have led to numerous publications and awards at top-tier computer security conferences. 
@@ -15,7 +17,7 @@ I'm a recipient of the prestigious [Internet Defense Award](https://research.fac
 
 I've demonstrated real-world impact through successful industry-academia collaborations, leading to press coverage spanning [60+ news articles](../in-the-news/). I enjoy presenting deep technical concepts to a broad audience. Through [20+ invited talks](../talks/) and panel discussions, I've presented to regulators, enforcement agencies, industry research groups, academics, engineering leaders, and students. I have over 9 years of cumulative experience in Computer Security, Machine Learning, NLP, Networking, and Software Development. I've worked at Cisco, Google/Mandiant, Centurylink, Bandwidth, and the Industry Traceback Group throughout my professional career.
 
-**I'm on the job market**: Looking ahead, I aim to further bridge the gap between research and industry, advancing security solutions to tackle emerging threats. Do reach out on [LinkedIn](https://www.linkedin.com/in/sathviknprasad/) or via [email](../contact/) if I'd be a good fit for your organization.
+
 
 **Research website on all things robocalls: [robocall.science](https://robocall.science)**
 
