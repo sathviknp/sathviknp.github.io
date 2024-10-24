@@ -48,6 +48,9 @@ I've demonstrated real-world impact through successful industry-academia collabo
 
 <ul>
 
+<p><strong>Oct 2024</strong>: Our 2025 IEEE S&P paper on characterizing the robocalling ecosystem from multiple vantage points is now available on  <a
+href="https://arxiv.org/abs/2410.17361">Arxiv.</a></p>
+
 <p><strong>Oct 2024</strong>: Our <a href="https://arxiv.org/abs/2409.02839">paper</a> (called Jäger) on automating telephone abuse traceback won the <strong>Distinguished Paper Award</strong> and the <strong>Distinguished Artifact Award</strong> at <a
 href="https://www.sigsac.org/ccs/CCS2024/program/awards.html">ACM CCS 2024.</a></p>
 
