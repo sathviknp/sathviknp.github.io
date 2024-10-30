@@ -19,9 +19,7 @@ I've demonstrated real-world impact through successful industry-academia collabo
 
 
 
-**Research website on all things robocalls: [robocall.science](https://robocall.science)**
-
-**Link to my [CV](../files/sathvik-cv.pdf).**
+**Link to my resume: <a href="../files/sathvik-cv.pdf" target="_blank" rel="noopener noreferrer">short version</a> and <a href="../files/sathvik-cv-long.pdf" target="_blank" rel="noopener noreferrer">long version.</a>**
 
 <h2 id="Publications">Publications</h2>
 
@@ -41,6 +39,9 @@ I've demonstrated real-world impact through successful industry-academia collabo
   - Distinguished Paper Award
 
 - [Thou Shalt Discuss Security: Quantifying the Impacts of Instructions to RFC Authors](../publication/2019-11-11-rfclint), Security Standardisation Research Conference, 2019
+
+
+**Research website on all things robocalls: [robocall.science](https://robocall.science)**
 
 
 <h2 id="news">News</h2>
