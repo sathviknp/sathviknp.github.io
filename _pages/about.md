@@ -19,7 +19,7 @@ I've demonstrated real-world impact through successful industry-academia collabo
 
 
 
-**Link to my resume: <a href="../files/sathvik-cv.pdf" target="_blank" rel="noopener noreferrer">short version</a> and <a href="../files/sathvik-cv-long.pdf" target="_blank" rel="noopener noreferrer">long version.</a>**
+**Link to my resume: <a href="../files/sathvik-cv-short.pdf" target="_blank" rel="noopener noreferrer">short version</a> and <a href="../files/sathvik-cv-long.pdf" target="_blank" rel="noopener noreferrer">long version.</a>**
 
 <h2 id="Publications">Publications</h2>
 
