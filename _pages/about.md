@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**I'm on the job market**: I aim to bridge the gap between research and industry, advancing security solutions to tackle emerging threats. Do reach out on [LinkedIn](https://www.linkedin.com/in/sathviknprasad/) or via [email](../contact/) if I'd be a good fit for your organization.
 
 I'm a security researcher and a final-year PhD candidate at [North Carolina State University](https://www.csc.ncsu.edu/), where I'm advised by [Dr. Brad Reaves](https://bradreaves.net). I'm also the lead graduate student for the [Wolfpack Security and Privacy Research lab](https://wspr.csc.ncsu.edu//people.html). 
 
@@ -19,7 +18,6 @@ I've demonstrated real-world impact through successful industry-academia collabo
 
 
 
-**Link to my resume: <a href="../files/sathvik-cv-short.pdf" target="_blank" rel="noopener noreferrer">short version</a> and <a href="../files/sathvik-cv-long.pdf" target="_blank" rel="noopener noreferrer">long version.</a>**
 
 <h2 id="Publications">Publications</h2>
 
