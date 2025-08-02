@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sathvik's Homepage"
 title_separator          : "-"
 name                     : &name "Sathvik Prasad"
-description              : &description "Graduate Researcher at NC State"
+description              : &description ""
 url                      : https://sathviknp.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sathviknp/sathviknp.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Sathvik Prasad"
-  avatar           : "profile_pic.jpg"
-  bio              : "Ph.D. Candidate at NC State"
+  avatar           : "profile_pic.png"
+  bio              : ""
   location         : 
   employer         : 
   pubmed           : 
