@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+I'm a [Senior Researcher](https://www.microsoft.com/en-us/research/people/satprasad/) in the [Security Research group](https://www.microsoft.com/en-us/research/group/security/) at Microsoft Research.
 
-I'm a security researcher and a final-year PhD candidate at [North Carolina State University](https://www.csc.ncsu.edu/), where I'm advised by [Dr. Brad Reaves](https://bradreaves.net). I'm also the lead graduate student for the [Wolfpack Security and Privacy Research lab](https://wspr.csc.ncsu.edu//people.html). 
+I earned my Ph.D. from [North Carolina State University](https://www.csc.ncsu.edu/), where I was advised by [Dr. Brad Reaves](https://bradreaves.net). I was also the lead graduate student for the [Wolfpack Security and Privacy Research lab](https://wspr.csc.ncsu.edu//people.html). 
 
 I specialize in conceptualizing and developing large-scale data collection systems to study spam, fraud, and abuse. I designed, deployed, and continue to operate the largest academic telephony honeypot in the United States. As part of my dissertation, I've developed novel characterization techniques to study the telephony threat landscape, which have led to numerous publications and awards at top-tier computer security conferences. 
 
@@ -21,7 +22,8 @@ I've demonstrated real-world impact through successful industry-academia collabo
 
 <h2 id="Publications">Publications</h2>
 
-- [Characterizing Robocalls with Multiple Vantage Points](../publication/2025-05-01-vantage-point), IEEE Security and Privacy (Oakland), 2025
+- [Characterizing Robocalls with Multiple Vantage Points](../publication/2025-05-01-vantage-point), IEEE Security and Privacy (Oakland), 2025 
+  - Distinguished Paper Award
 
 - [Jäger: Automated Telephone Call Traceback](../publication/2024-10-17-jager), ACM CCS, 2024
   - Distinguished Paper Award
@@ -39,13 +41,21 @@ I've demonstrated real-world impact through successful industry-academia collabo
 - [Thou Shalt Discuss Security: Quantifying the Impacts of Instructions to RFC Authors](../publication/2019-11-11-rfclint), Security Standardisation Research Conference, 2019
 
 
-**Research website on all things robocalls: [robocall.science](https://robocall.science)**
+<!-- **Research website on all things robocalls: [robocall.science](https://robocall.science)** -->
 
 
 <h2 id="news">News</h2>
 <div class="content" style="overflow-y: scroll; padding-left: 10px; max-height: 350px; padding-right: 20px; margin-top: 0px;" id="div-news">
 
 <ul>
+
+<p><strong>May 2025</strong>: Our 2025 IEEE S&P paper on characterizing the robocalling ecosystem from multiple vantage points was recornized with a <a
+href="https://sp2025.ieee-security.org/awards.html">Distinguished Paper Award.</a></p>
+
+<p><strong>May 2025</strong>: Joined the Securty Research group at Microsoft Research!</p>
+
+
+<p><strong>Mar 2025</strong>: I successfuly defended my Ph.D.</p>
 
 <p><strong>Oct 2024</strong>: Our 2025 IEEE S&P paper on characterizing the robocalling ecosystem from multiple vantage points is now available on  <a
 href="https://arxiv.org/abs/2410.17361">Arxiv.</a></p>
