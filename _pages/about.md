@@ -47,7 +47,7 @@ I've demonstrated real-world impact through successful industry-academia collabo
 
 <ul>
 
-<p><strong>May 2025</strong>: Our 2025 IEEE S&P paper on characterizing the robocalling ecosystem from multiple vantage points was recornized with a <a
+<p><strong>May 2025</strong>: Our 2025 IEEE S&P paper on characterizing the robocalling ecosystem from multiple vantage points was recognized with a <a
 href="https://sp2025.ieee-security.org/awards.html">Distinguished Paper Award.</a></p>
 
 <p><strong>May 2025</strong>: Joined the Securty Research group at Microsoft Research!</p>
